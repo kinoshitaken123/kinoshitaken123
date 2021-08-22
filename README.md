@@ -7,6 +7,8 @@
 # Counter
 ![](https://komarev.com/ghpvc/?username=kinoshitaken123)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?kinoshitaken123=vn7n24fzkq&theme=vue)
+
 <!--
 **kinoshitaken123/kinoshitaken123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
