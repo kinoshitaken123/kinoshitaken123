@@ -9,7 +9,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinoshitaken123&theme=vue)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinoshitaken123&theme=vue)
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=アカウント名)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **kinoshitaken123/kinoshitaken123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
