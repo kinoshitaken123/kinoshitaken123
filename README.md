@@ -4,8 +4,8 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)
 # My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kinoshitaken123/contributions.svg)](http://qiita.com/kinoshitaken123)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/kinoshitaken123/followers.svg)](http://qiita.com/kinoshitaken123)
+# Counter
+![](https://komarev.com/ghpvc/?username=アカウント名)
 
 <!--
 **kinoshitaken123/kinoshitaken123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
