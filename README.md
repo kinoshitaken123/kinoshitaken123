@@ -1,5 +1,5 @@
-# Counter/My Qiita posts
-![](https://komarev.com/ghpvc/?username=kinoshitaken123)[![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)
+# Counter・My Qiita posts
+![](https://komarev.com/ghpvc/?username=kinoshitaken123)  [![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoshitaken123&theme=vue)
