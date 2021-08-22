@@ -1,13 +1,9 @@
 ### Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoshitaken123&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinoshitaken123&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinoshitaken123&theme=vue)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinoshitaken123&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinoshitaken123&theme=vue)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinoshitaken123&theme=vue)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinoshitaken123&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kinoshitaken123&theme=vue)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kinoshitaken123&theme=vue)
 
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)
