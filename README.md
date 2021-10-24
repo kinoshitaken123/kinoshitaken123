@@ -10,7 +10,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoshitaken123&theme=vue)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoshitaken123-github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinoshitaken123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinoshitaken123&theme=vue)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinoshitaken123&theme=vue)
 
