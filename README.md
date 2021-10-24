@@ -4,7 +4,7 @@
   [ホームポジションタイピング記録](https://docs.google.com/spreadsheets/d/1MNWym9LQkua_LFeEtW391eya8fmQVg62QF9zLdTN7ok/edit#gid=1239519421)
   
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoshitaken123&theme=vue)
@@ -15,7 +15,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinoshitaken123&theme=vue)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinoshitaken123&theme=vue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoshitaken123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoshitaken123&show_icons=true&theme=vue)
 
 
 
