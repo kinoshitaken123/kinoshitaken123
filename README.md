@@ -7,7 +7,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123](https://github.com/kinoshitaken123/github-profile-trophy)
 
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoshitaken123&theme=vue)
 
 
@@ -15,7 +14,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kinoshitaken123&theme=vue)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kinoshitaken123&theme=vue)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinoshitaken123&show_icons=true&theme=radical)
 
 
 
