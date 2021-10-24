@@ -3,7 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=kinoshitaken123)  　[![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)       [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kinoshitaken123/contributions.svg)](http://qiita.com/kinoshitaken123)
   [ホームポジションタイピング記録](https://docs.google.com/spreadsheets/d/1MNWym9LQkua_LFeEtW391eya8fmQVg62QF9zLdTN7ok/edit#gid=1239519421)
   
-![](https://github-profile-trophy.vercel.app/?username=kinoshitaken123=flat)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123](https://github.com/kinoshitaken123/github-profile-trophy)
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kinoshitaken123&theme=vue)
