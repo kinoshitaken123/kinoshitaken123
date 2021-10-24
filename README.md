@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=kinoshitaken123)  　[![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)       [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kinoshitaken123/contributions.svg)](http://qiita.com/kinoshitaken123)
   [ホームポジションタイピング記録](https://docs.google.com/spreadsheets/d/1MNWym9LQkua_LFeEtW391eya8fmQVg62QF9zLdTN7ok/edit#gid=1239519421)
