@@ -2,7 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=kinoshitaken123)  　[![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)       [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kinoshitaken123/contributions.svg)](http://qiita.com/kinoshitaken123)
   [ホームポジションタイピング記録](https://docs.google.com/spreadsheets/d/1MNWym9LQkua_LFeEtW391eya8fmQVg62QF9zLdTN7ok/edit#gid=1239519421)
-  
+# 自己紹介
+
+| key | value |
+ | :--- | :---: |
+ | 名前 | Kentaro.Kinoshita |
+ | 趣味 | 野球観戦、車中泊、魚捌き|
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
 
