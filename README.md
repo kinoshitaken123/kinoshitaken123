@@ -8,7 +8,7 @@
  | :--- | :---: |
  | 名前 | Kentaro.Kinoshita |
  | 前職 | ANA 中部空港 Cargo|
- | 趣味 | 野球観戦、車中泊、魚捌き|
+ | 趣味 | 野球観戦、車中泊（名古屋-四国ー近畿ー九州）、魚捌き|
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
