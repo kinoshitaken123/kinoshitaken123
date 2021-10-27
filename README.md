@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=kinoshitaken123)  　[![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)       [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kinoshitaken123/contributions.svg)](http://qiita.com/kinoshitaken123)
   [ホームポジションタイピング記録](https://docs.google.com/spreadsheets/d/1MNWym9LQkua_LFeEtW391eya8fmQVg62QF9zLdTN7ok/edit#gid=1239519421)
 # 自己紹介
-
+ | key | value |
  | :--- | :---: |
  | 名前 | Kentaro.Kinoshita |
  | 出身 | 長崎県　大村市 |
