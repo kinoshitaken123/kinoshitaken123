@@ -4,11 +4,11 @@
   [ホームポジションタイピング記録](https://docs.google.com/spreadsheets/d/1MNWym9LQkua_LFeEtW391eya8fmQVg62QF9zLdTN7ok/edit#gid=1239519421)
 # 自己紹介
 
-| key | value |
  | :--- | :---: |
  | 名前 | Kentaro.Kinoshita |
+ | 出身 | 長崎県　大村市 |
  | 前職 | ANA 中部空港 Cargo|
- | 趣味 | 野球観戦、車中泊（名古屋-四国ー近畿ー九州）、魚捌き|
+ | 趣味 | 野球観戦、車中泊（名古屋-四国-近畿-九州）、魚捌き|
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
