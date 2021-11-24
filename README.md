@@ -3,11 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=kinoshitaken123)  　[![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)       [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kinoshitaken123/contributions.svg)](http://qiita.com/kinoshitaken123)
 
 # 自己紹介
+
  | key | value |
  | :--- | :---: |
  | 名前 | Kentaro.Kinoshita |
  | 出身 | 長崎県　大村市 |
  | 前職 | ANA 中部空港 Cargo|
+ |今後やって行く事|地域創生|
  | 趣味 | 野球観戦、車中泊（名古屋-四国-近畿-九州）、魚捌き（豊浜市場）|
  |資格一覧|
 
