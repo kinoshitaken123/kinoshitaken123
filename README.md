@@ -6,7 +6,7 @@
 
  | key | value |
  | :--- | :---: |
- | 名前 | Kentaro.Kinoshita |
+ | 名前 | Kinoshita |
  | 出身 | Nagasaki Prefecture|
  | 前職 | 航空会社|
  | 現職 |地域創生エンジニア|
