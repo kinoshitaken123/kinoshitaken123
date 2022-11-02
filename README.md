@@ -11,7 +11,6 @@
  | 前職 | 航空会社|
  | 現職 |地域創生エンジニア|
  | 趣味 | 野球観戦、魚捌き（豊浜市場）|
- |資格一覧|
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
