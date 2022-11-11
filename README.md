@@ -9,7 +9,7 @@
  | 名前 | Kinoshita |
  | 出身 | Nagasaki Prefecture|
  | 現職 |地域創生エンジニア|
- | 趣味 | 野球観戦、魚捌き（豊浜市場）|
+ | 趣味 | 野球観戦、魚捌き|
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
 
