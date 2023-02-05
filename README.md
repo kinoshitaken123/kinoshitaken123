@@ -8,6 +8,7 @@
  | :--- | :---: |
  | 名前 | Kinoshita |
  | 出身 | Nagasaki Prefecture|
+ |好きなこと|ONE ON ROCK
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kinoshitaken123&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
 
