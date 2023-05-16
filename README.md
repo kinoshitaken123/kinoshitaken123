@@ -1,6 +1,6 @@
 # 座右の銘「Stay hungry, stay foolish」
 
-![](https://komarev.com/ghpvc/?username=kinoshitaken123)  　[![My Qiita posts](https://qiita-badge.apiapi.app/s/kinoshitaken123/posts.svg)](http://qiita.com/kinoshitaken123)       [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kinoshitaken123/contributions.svg)](http://qiita.com/kinoshitaken123)
+![](https://komarev.com/ghpvc/?username=kinoshitaken123)  　
 
 # 自己紹介
 
